@@ -1,2 +1,2 @@
 # Test
-Github Test Tutorials
+This repository is meant to know about the working and requirements of Github.
